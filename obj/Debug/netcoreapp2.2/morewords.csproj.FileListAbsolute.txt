@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\lightning\morewords\bin\Debug\netcoreapp2.2\morewords.deps.json
+C:\Users\naienko\workspace\csharp\lightning\morewords\bin\Debug\netcoreapp2.2\morewords.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\lightning\morewords\bin\Debug\netcoreapp2.2\morewords.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\lightning\morewords\bin\Debug\netcoreapp2.2\morewords.dll
+C:\Users\naienko\workspace\csharp\lightning\morewords\bin\Debug\netcoreapp2.2\morewords.pdb
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.dll
+C:\Users\naienko\workspace\csharp\lightning\morewords\obj\Debug\netcoreapp2.2\morewords.pdb
